@@ -1,1 +1,3 @@
-# linters
+# Linters
+
+- Rubocop
